@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://BrushAndBark/sitemap.xml
+Sitemap: https://mythlandia.com/BrushAndBark/sitemap.xml
